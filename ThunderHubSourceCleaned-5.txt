@@ -4402,7 +4402,7 @@ do
 	end
 
 	tbl.FARM_FLAGS = {
-		{ "Toggle_Coin_Autofarm", "Coin Autofarm" },
+		{ "Toggle_Coin_Autofarm", "Candy Autofarm" },
 		{ "Slider_Farm_Speed", "Farm Speed" },
 		{ "Toggle_Discord_Sender", "Discord Sender" },
 		{ "Toggle_Farm_Perf_Master", "Performance Mode" },
